@@ -1,0 +1,12 @@
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\app\App.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\DAO\AbstractDAO.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\DAO\AbstractJunctionDAO.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\DAO\CompilationDAO.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\DAO\CompilationTrackDAO.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\DAO\TrackDAO.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\Database\ConnectionPool.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\DTO\CompilationDTO.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\Entity\Compilation.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\Entity\CompilationTrack.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\Entity\Track.java
+C:\Users\Admin\IdeaProjects\musicsys\src\main\java\com\musicsys\MusicService\MusicService.java
